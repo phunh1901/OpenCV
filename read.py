@@ -1,6 +1,6 @@
 import cv2 as cv
 
-#img = cv.imread('.Photos/image.png')
+#img = cv.imread('.Photos/image.p'jpg
 
 # cv.imshow("Ex", img)
 

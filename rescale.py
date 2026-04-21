@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread('.Photos/image.png')
+img = cv.imread('.Photos/image.jpg')
 cv.imshow('Ex', img)
 
 # chinh kich thuoc frame cho img, video, live video
