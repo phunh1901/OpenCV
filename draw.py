@@ -25,3 +25,6 @@ cv.putText(blank, 'Hi', (255, 255), cv.FONT_HERSHEY_TRIPLEX, 1.0, (0, 255, 0), t
 cv.imshow('Text', blank)
 
 cv.waitKey(0)
+
+
+#
